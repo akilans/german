@@ -1,5 +1,8 @@
 # Learn German Language
 
+* ß - ss 
+* 
+
 ### Youtube Links
 
 * Youtube channel - https://www.youtube.com/channel/UCaeT58uDMlPpBlwAYaxN0LA 
