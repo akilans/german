@@ -1,4 +1,4 @@
-# Greetings
+# Greetings - Lektion 1 - Lession 1
 * Lektion 1 - Lession 1 [ Leksion eince ]
 * Begrüßungen - Greetings [ Begrussungen ]
 * Hallo - hello [ hallo ]
