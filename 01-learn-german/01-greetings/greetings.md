@@ -9,7 +9,7 @@
 * Grüß Gott - Hello - [ Greess Got ]
 * Grüß sie / Grüß dich(within friends) - Hello [ singular form not used with group of people ] - sie - zee
 * Servus - Hello/Bye - 
-* Tschüs | ciao [itali] - Jess - Bye
+* Tschüss | ciao [itali] - Jess - Bye
 * Auf widersehen - See you again - [ Aaff veedarsen ]
 * Auf wiederhören - In telephone [speak to you soon] - [ AAff veedarhogen ]
 * Bis bald - See u later - Among friends
