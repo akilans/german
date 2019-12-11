@@ -7,3 +7,6 @@
 * Wer sind sie? - Who are you? formal [ wer -who]
 * Wer bist du? - Who are you?
 * Wie ist ihr name? - what is ur name? [ihr - ier ]
+* was - what
+* wer - Who
+* Wie - How - But asking name starts with Wie not with was
